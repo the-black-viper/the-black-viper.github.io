@@ -10,6 +10,7 @@ export default defineConfig({
       analytics: {
         id: "G-62P26TQJEK",
       },
+      gtm: { id: "GTM-PJ9D2D5F" },
     }),
   ],
   base: "/",
